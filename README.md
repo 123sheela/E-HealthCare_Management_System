@@ -4,7 +4,7 @@
   The E-Healthcare Management System is a comprehensive solution designed to streamline healthcare management processes, enabling efficient process between patients, doctors, and administrative staff. This project aims to digitize various aspects of healthcare operations, including appointment scheduling, patient management, doctor management, and feedback collection.
 
 ## Features
--**User Management:** Allows registration and login for both patients and doctors.
+- **User Management:** Allows registration and login for both patients and doctors.
 - **Appointment Booking:** Patients can schedule appointments with doctors based on their availability.
 - **Doctor Management:** Provides functionalities for adding, updating, and deleting doctor profiles.
 - **Patient Management:** Enables the management of patient records, including personal details and medical history.
